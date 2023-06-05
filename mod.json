@@ -2,7 +2,7 @@
     "Name" : "Better Server Browser",
     "Description" : "Better Server Browser",
     "RequiredOnClient": false,
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "LoadPriority": 1,
     "ConVars": [
         {

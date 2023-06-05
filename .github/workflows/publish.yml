@@ -48,7 +48,7 @@ jobs:
           #deps: "northstar-Northstar@1.9.3" # <------------- Uncomment this line to add dependencies to your mod, each sparated by a space
           categories: |
             mods
-            client-side 
-            custom-menus 
-            language-en 
+            client-side
+            custom-menus
+            language-en
             language-cn

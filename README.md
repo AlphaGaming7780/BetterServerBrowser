@@ -8,7 +8,7 @@ All these elements have been fixed, along with the addition of new filters and a
 
 This mod is a "copy" of the NorthstarMods' Pull Request: https://github.com/R2Northstar/NorthstarMods/pull/645
 
-If you have any suggestions, ideas, or encounter bugs, feel free to comment on the PR or send a message to Northstar's Discord server (ᚖ 𝔸𝕝𝕡𝕙𝕒 𝔾𝕒𝕞𝕚𝕟𝕘 ᚖ#5720).
+If you have any suggestions, ideas, or encounter bugs, feel free to comment on the PR, send a message to Northstar's Discord server (ᚖ 𝔸𝕝𝕡𝕙𝕒 𝔾𝕒𝕞𝕚𝕟𝕘 ᚖ#5720), or create an issue on the mod's GitHub page.
 
 ### Translations
 | Languag | Contributor |

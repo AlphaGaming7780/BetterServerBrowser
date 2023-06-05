@@ -3,6 +3,7 @@ This mod aims to enhance the game's server browser menu. While the original menu
 - the cumbersome map and game mode filters, 
 - the small join server button that doesn't encompass the entire text,
 - the search server button overlapping the text entry. 
+
 All these elements have been fixed, along with the addition of new filters and a revamped server details panel.
 
 This mod is a "copy" of the NorthstarMods' Pull Request: https://github.com/R2Northstar/NorthstarMods/pull/645

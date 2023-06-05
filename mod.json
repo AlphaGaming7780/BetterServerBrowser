@@ -1,17 +1,41 @@
 {
-   "Name": "Example.Mod",
-   "Description": "A cool mod that does cool stuff",
-   "Version": "1.0.0",
-   "DownloadLink": "https://northstar.thunderstore.io/package/download/Example/Mod/",
+    "Name" : "Better Server Browser",
+    "Description" : "Better Server Browser",
+    "RequiredOnClient": false,
+    "Version": "1.6.0",
+    "LoadPriority": 1,
+    "ConVars": [
+        {
+            "Name": "filter_map",
+            "DefaultValue": "SWITCH_ANY"
+          },
+          {
+            "Name": "filter_gamemode",
+            "DefaultValue": "SWITCH_ANY"
+          },
+          {
+            "Name": "filter_region",
+            "DefaultValue": "SWITCH_ANY"
+          },
+          {
+            "Name": "filter_mods",
+            "DefaultValue": "SWITCH_ANY"
+          }
+    ],
+    "Scripts": [
+        {
+            "Path": "ui/menu_sb_map_select.nut",
+            "RunOn": "UI"
+        },
+        {
+            "Path": "ui/menu_sb_mode_select.nut",
+            "RunOn": "UI"
+        }
+    ],
 
-   "LoadPriority": 0,
-   "ConVars": [],
-   "Scripts": [{
-      "Path": "example.nut",
-      "RunOn": "(CLIENT || SERVER) && MP",
-      "ClientCallback": {
-         "Before":"example_callback"
-      }
-   }],
-   "Localisation": []
+    "Localisation": [
+      	"resource/BetterServerBrowser_localisation_%language%.txt"
+  	],
+
+    "Dependencies": {}
 }

@@ -27,7 +27,7 @@ If you have any suggestions, ideas, or encounter bugs, feel free to comment on t
 | Languag | Contributor |
 | ------- | ----------- |
 | English | ChatGPT |
-| French | triton_supreme (ME) |
+| French | triton_supreme (ᚖ 𝔸𝕝𝕡𝕙𝕒 𝔾𝕒𝕞𝕚𝕟𝕘 ᚖ#5720) (ME) |
 | German | ChatGPT |
 | Italian | ChatGPT |
 | Japanese | ChatGPT |

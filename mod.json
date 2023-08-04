@@ -6,21 +6,21 @@
     "LoadPriority": 1,
     "ConVars": [
         {
-            "Name": "filter_map",
-            "DefaultValue": "SWITCH_ANY"
-          },
-          {
-            "Name": "filter_gamemode",
-            "DefaultValue": "SWITCH_ANY"
-          },
-          {
-            "Name": "filter_region",
-            "DefaultValue": "SWITCH_ANY"
-          },
-          {
-            "Name": "filter_mods",
-            "DefaultValue": "SWITCH_ANY"
-          }
+			"Name": "filter_map",
+			"DefaultValue": "SWITCH_ANY"
+		},
+		{
+			"Name": "filter_gamemode",
+			"DefaultValue": "SWITCH_ANY"
+		},
+		{
+			"Name": "filter_region",
+			"DefaultValue": "SWITCH_ANY"
+		},
+		{
+			"Name": "filter_mods",
+			"DefaultValue": "SWITCH_ANY"
+		}
     ],
     "Scripts": [
         {

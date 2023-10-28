@@ -8,7 +8,7 @@ const int MODES_PER_PAGE = 15
 
 void function SB_InitModesMenu()
 {
-	var menu = GetMenu( "ModesMenu" )
+	var menu = GetMenu( "SB_ModesMenu" )
 
 	AddMenuEventHandler( menu, eUIEvent.MENU_OPEN, OnOpenModesMenu )
 

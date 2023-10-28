@@ -29,10 +29,6 @@ struct {
 	var menu
 } file
 
-
-
-
-
 void function SB_MenuMapSelect_Init()
 {
 	RegisterSignal( "OnCloseMapsMenu" )

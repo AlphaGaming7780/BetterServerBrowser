@@ -60,7 +60,7 @@ void function ModeButton_GetFocus( var button )
 {
 	int modeId = int( Hud_GetScriptID( button ) ) + ( file.currentModePage * MODES_PER_PAGE )
 
-	var menu = GetMenu( "ModesMenu" )
+	var menu = GetMenu( "SB_ModesMenu" )
 	var nextModeImage = Hud_GetChild( menu, "NextModeImage" )
 	var nextModeIcon = Hud_GetChild( menu, "ModeIconImage" )
 	var nextModeName = Hud_GetChild( menu, "NextModeName" )

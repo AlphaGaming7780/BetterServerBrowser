@@ -30,7 +30,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: GreenTF/upload-thunderstore-package@v4
         with:
-          community: northstar
+          community: Northstar
           # Name of the team to publish the mod under
           # This should be modified if your github username is different than your team name on Thunderstore
           namespace: TritonSupreme # <------ DOUBLE CHECK THIS

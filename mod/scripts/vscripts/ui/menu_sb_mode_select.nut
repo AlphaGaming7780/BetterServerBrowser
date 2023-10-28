@@ -6,7 +6,7 @@ struct {
 
 const int MODES_PER_PAGE = 15
 
-void function InitModesMenu()
+void function SB_InitModesMenu()
 {
 	var menu = GetMenu( "ModesMenu" )
 

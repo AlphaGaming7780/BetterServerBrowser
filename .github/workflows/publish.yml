@@ -41,11 +41,11 @@ jobs:
           # Description of the mod
           description: An enhanced mod that revolutionizes the game's server browser menu, offering a streamlined and immersive experience. # <----------- UPDATE THIS
           # Thunderstore API token
-          token: ${{ secrets.TS_KEY }} 
+          token: ${{ secrets.TS_KEY }}
           # Directory to wrap the contents of the repo in
           wrap: mods/${{ github.repository_owner }}.${{ env.name }} # This will wrap your Author.ModName folder in a mods/ folder before publishing
           #deps: "northstar-Northstar@1.9.3" # <------------- Uncomment this line to add dependencies to your mod, each sparated by a space
-          repo: northstar.thunderstore.io
+          # repo: northstar.thunderstore.io
           categories: |
             mods
             client-side
